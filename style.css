@@ -97,13 +97,13 @@ p.tlo
 /* Change the background color on mouse-over */
 .header a:hover {
  
-  color: #818181;
+  color: red;
 }
 
 /* Style the active/current link*/
 .header a.active {
   
-  color: #818181;
+  color: red;
 }
 
 /* Float the link section to the right */
@@ -131,7 +131,7 @@ p.tlo
 
 .sidebar a.active {
   
-  color: #818181;
+  color: red;
 }
 
 /* The sidebar links */
