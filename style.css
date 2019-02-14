@@ -97,13 +97,13 @@ p.tlo
 /* Change the background color on mouse-over */
 .header a:hover {
  
-  color: red;
+  color: #818181;
 }
 
 /* Style the active/current link*/
 .header a.active {
   
-  color: red;
+  color: #818181;
 }
 
 /* Float the link section to the right */
@@ -127,6 +127,11 @@ p.tlo
   padding-top: 60px; /* Place content 60px from the top */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
 
+}
+
+.sidebar a.active {
+  
+  color: #818181;
 }
 
 /* The sidebar links */
