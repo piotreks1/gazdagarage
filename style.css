@@ -79,7 +79,7 @@ p.tlo
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
 
-  z-index:99;
+  z-index:1;
 }
 
 /* Style the header links */
@@ -121,7 +121,7 @@ p.tlo
   height: 100%; /* 100% Full-height */
   width: 0; /* 0 width - change this with JavaScript */
   position: fixed; /* Stay in place */
-  z-index: 100; /* Stay on top */
+  z-index: 0; /* Stay on top */
   top: 0;
   left: 0;
   background-color: #111; /* Black*/
