@@ -176,7 +176,7 @@ p.tlo
 #main {
   transition: margin-left .5s; /* If you want a transition effect */
   padding-right: 20px;
- 
+  text-align:right;
   
 }
 
